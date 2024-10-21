@@ -8,4 +8,3 @@ DFA Diagram of the Program:
 
 NFA Diagram of the Program:
 ![NFA  Diagram](https://github.com/user-attachments/assets/083fd92f-8360-425f-8c03-1dfda32ca5d8)
-[Uploading DFA Diagram.png…]()
